@@ -1,0 +1,16 @@
+# virtualenv
+bin
+etc
+share
+lib
+pyvenv.cfg
+
+# local
+.ipynb_checkpoints
+.vscode
+__pycache__
+
+# data
+aircraft*.csv
+*.parquet
+
